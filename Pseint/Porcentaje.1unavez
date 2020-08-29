@@ -1,0 +1,9 @@
+Algoritmo Calcular_Porcentaje
+	Definir Porcentaje,Cantidad,Resultado Como Entero
+	Escribir 'Ingrese la Cantidad'
+	Leer Cantidad
+	Escribir 'Ingrese la Porcentaje'
+	Leer Porcentaje
+	Resultado <- Cantidad*Porcentaje/100
+	Escribir 'El valor de ',Cantidad,' con un porcentaje del ',Porcentaje,'% es: ',Resultado
+FinAlgoritmo
